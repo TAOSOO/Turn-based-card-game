@@ -1,4 +1,4 @@
-It is a three people group project. All art materials are from an online database
+It is a three people group project from August 2022 to September 2022. All art materials are from an online database
 (www.aigei.com). Most of the codes are original, and some codes were adjusted from the sample codes
 given by Professor Bill Nace in class.
 
